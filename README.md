@@ -7,12 +7,12 @@ I learned Python 3, the most popular programming language in the world with this
 
 ## Course Contents
 
-1. Introduction
+**1. Introduction**
 - What is Python?
 - Writing Our First Code
 - Quiz
 
-2. Data Types and Variables
+**2. Data Types and Variables**
 - What are Data Types and Variables?
 - Numbers
 - Booleans
@@ -32,7 +32,7 @@ I learned Python 3, the most popular programming language in the world with this
 - Exercise: Gravitational Force
 - Solution Review: Gravitational Force
 
-3. Conditional Statements
+**3. Conditional Statements**
 - What are Conditional Statements?
 - The if Statement
 - The if-else Statement
@@ -41,7 +41,7 @@ I learned Python 3, the most popular programming language in the world with this
 - Exercise: Discounted Price
 - Solution Review: Discounted Price
 
-4. Functions
+**4. Functions**
 - What are Functions?
 - Function Creation
 - Function Scope
@@ -57,7 +57,7 @@ I learned Python 3, the most popular programming language in the world with this
 - Exercise: The Factorial!
 - Solution Review: The Factorial!
 
-5. Loops
+**5. Loops**
 - What are Loops?
 - The for Loop
 - Nested for Loops
@@ -73,7 +73,7 @@ I learned Python 3, the most popular programming language in the world with this
 
 ## Python Exam I
 
-7. Data Structures
+**7. Data Structures**
 - What are Data Structures?
 - Lists
 - Common List Operations
@@ -92,13 +92,13 @@ I learned Python 3, the most popular programming language in the world with this
 - Exercise: Highs and Lows
 - Solution Review: Highs and Lows
 
-8. Libraries
+**8. Libraries**
 - What is the Python Standard Library?
 - Popular Modules
 - PyPI
 - Conclusion
 
-9. Appendix
+**9. Appendix**
 - Python IDEs
 - Installing Python: Linux
 - Installing Python: Windows
